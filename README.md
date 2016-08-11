@@ -1,2 +1,2 @@
 # tdd-play
-TDD learning project
+TDD (Test Driven Development) Learning Project
